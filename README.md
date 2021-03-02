@@ -34,6 +34,6 @@ Aiming at the problem of insufficient prediction accuracy for minority class in 
 
 
 ```python
-python BorderlineDBSCAN.py
+python DBRF.py
 
 ```
